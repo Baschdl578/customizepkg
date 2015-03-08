@@ -24,6 +24,7 @@ ACTION#CONTEXT#PATTERN#VALUE
 - Pattern can be any rexgexp
 - Value (only needed for replace) can be any string
 - Comments can be added by starting the line with `#`
+- The seperator can be changed by adding "@SEPARATOR=" to a configfile
 
 # Additional Files #
 
